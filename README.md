@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# 🎬 Movie Discovery App
 
-## Project info
+A modern, AI-powered movie discovery platform built with Next.js, featuring intelligent recommendations, advanced search, and beautiful design.
 
-**URL**: https://lovable.dev/projects/a21b6597-e75b-480a-a42f-ec6640dfea5d
+**Lovable Project URL**: https://lovable.dev/projects/334139e8-d29e-4f3e-b98b-3f820f1e1a68
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a21b6597-e75b-480a-a42f-ec6640dfea5d) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/projects/334139e8-d29e-4f3e-b98b-3f820f1e1a68) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -54,15 +54,17 @@ npm run dev
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Framework**: Next.js 14 with App Router  
+- **Language**: TypeScript
+- **Frontend**: React 18
+- **UI Components**: shadcn/ui + Radix UI
+- **Styling**: Tailwind CSS
+- **AI Integration**: Google Gemini AI
+- **Movie Data**: The Movie Database (TMDB) API
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/a21b6597-e75b-480a-a42f-ec6640dfea5d) and click on Share -> Publish.
+Simply open [Lovable](https://lovable.dev/projects/334139e8-d29e-4f3e-b98b-3f820f1e1a68) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
